@@ -1,0 +1,6 @@
+#ignore the sql backup files
+#
+sites/defualt/settings.php
+sites/defualt/settings.php.orig
+my-detest.sql
+my-drupaldb-backup.sql
